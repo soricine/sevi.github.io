@@ -1432,7 +1432,7 @@ pricing-plans
 .pricing-item span.price {
   font-size: 30px;
   color: #907d13;
-  font-weight: 700;1
+  font-weight: 700;
   display: inline-block;
   margin-top: 30px;
 }
@@ -1478,7 +1478,7 @@ page heading
 */
 
 .page-heading {
-  background-image: url(../images/heading-bg.jpg);
+  background-image: url(../images/history.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
